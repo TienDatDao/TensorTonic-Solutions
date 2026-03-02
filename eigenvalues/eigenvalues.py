@@ -14,6 +14,3 @@ def calculate_eigenvalues(matrix):
         return res
     else:
         return None
-
-matrix=[[1, 2, 3], [4, 5]]
-print(calculate_eigenvalues(matrix))
